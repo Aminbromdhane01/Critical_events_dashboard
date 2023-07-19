@@ -1,4 +1,6 @@
 import Landing from "./components/Landing"
+import Tables from "./components/Tables"
+
 
 
 function App() {
@@ -7,6 +9,7 @@ function App() {
   return (
     <>
      <Landing/>
+     <Tables/>
 
     </>
   )
